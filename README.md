@@ -33,7 +33,7 @@ Use the W3C HTML validator to catch unintended mistakes in your HTML — so that
 
 ### Example
 The following screenshot shows an example of what the form might look like after being marked up. 
-![Final-look](/assets/final-view.png)
+![Final-view](/assets/final-view.png)
 
 
 > This activity is based on the Forms Challenge from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Forms_challenge), used here for educational purposes.
